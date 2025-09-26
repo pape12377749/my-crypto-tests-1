@@ -5,3 +5,4 @@ Day 11 — small link update.
 Day 12 — removed outdated hint.
 Day 13 — add note about versions.
 Day 14 — minor grammar fix.
+Day 15 — add quick example snippet.
